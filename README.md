@@ -1,4 +1,5 @@
-# University HTML Project
+# Web Development HTML Project
+# Chic Avenue – Boutique Fashion Website
 
 This project is a static website created for academic purposes. It includes HTML, CSS, and JavaScript files and demonstrates basic web development skills.
 
